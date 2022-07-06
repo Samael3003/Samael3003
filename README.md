@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, C-Prog., HTML5, CSS3, Javascript**
 
-- 👯 My salutations to : My Parents, Rubini Pulliadi, Shreedhar Dawar, Anshuman Singh, Dr. Kaushalya Thopate, and others
+- 👯 My salutations to : **My Parents, Rubini Pulliadi, Shreedhar Dawar, Anshuman Singh, Dr. Kaushalya Thopate, and others**
 
 - 📫 How to reach me **samaelmorningstar30032003@gmail.com**
 
