@@ -12,4 +12,4 @@ jobs:
         GIT_EMAIL: sasawant303@gmail.com
         MAX_DAYS: 365
         MIN_COMMITS_PER_DAY: 1
-        MAX_COMMITS_PER_DAY: 5
+        MAX_COMMITS_PER_DAY: 45
