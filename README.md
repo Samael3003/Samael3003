@@ -51,8 +51,11 @@
 
 <h3 align="left">Circuit Branch :</h3>
 <p align="left"> </p>
+
 [![Samael3003's GitHub | Stats](https://stats.quine.sh/Samael3003/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Samael3003)
+
 [![Samael3003's GitHub | Languages Over Time](https://stats.quine.sh/Samael3003/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Samael3003)
+
 [![Samael3003's GitHub | Topics Over Time](https://stats.quine.sh/Samael3003/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Samael3003)
 
 
