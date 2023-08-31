@@ -54,10 +54,6 @@
 
 [![Samael3003's GitHub | Stats](https://stats.quine.sh/Samael3003/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Samael3003)
 
-[![Samael3003's GitHub | Languages Over Time](https://stats.quine.sh/Samael3003/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Samael3003)
-
-[![Samael3003's GitHub | Topics Over Time](https://stats.quine.sh/Samael3003/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Samael3003)
-
 
 ![Samael's GitHub stats](https://github-readme-stats.vercel.app/api?username=samael3003&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samael3003&layout=compact&theme=radical)](https://github.com/samael3003/github-readme-stats) 
