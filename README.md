@@ -4,11 +4,21 @@
 <h3 align="center">A passionate Program developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://freelancersingh.com/wp-content/uploads/2022/01/4984c0ac41b13002de2873e622efa63c.gif">
 
-- 🔭 I’m currently working on **Video Streaming Website**
+- 🔭 I’m currently working at **BMC-Softwares** as an ***Intern***
 
-- 🌱 I’m currently learning **JAVA, Kotlin, React, NodeJS, C++,**
+![Alt Text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/BMC_Software_logo_%282014%29.svg/100px-BMC_Software_logo_%282014%29.svg.png)
 
-- 👯 I’m looking to collaborate on **Portfolio making**
+- 🌱 At ***BMC-Software*** I’m currently opted to learn:
+   1. *Linux*   <img src="https://juststickers.in/wp-content/uploads/2016/05/linux-inside-badge.png" alt="Linux Inside Badge" width="25" height="25">
+   2. *Database Adminisration*:   <img src="https://w7.pngwing.com/pngs/466/577/png-transparent-database-computer-icons-others-black-symbol-svg.png" alt="Linux Inside Badge" width="25" height="25">
+   3. *Docker and Kubernates*:   <img src="https://o.dlf.pt/dfpng/smallpng/313-3134306_docker-logo-svg-hd-png-download.png" alt="Linux Inside Badge" width="25" height="25">
+   4. *Computer Networking*:   <img src="https://www.inventicons.com/uploads/iconset/1627/wm/512/computer-network-51.png" width="25" height="25">
+
+- 👯 At **IUCAA** (**_Inter-University Centre for Astronomy and Astrophysics_**) I have volunteered for:
+   1. Science Day Exhibition
+   2. Horn Antenna Workshop
+   3. various Electronics Experiments
+   4. Digital Signal Processing
 
 - 💬 Ask me about **Python, C-Prog., HTML5, CSS3, Javascript**
 
