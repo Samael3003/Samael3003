@@ -127,10 +127,10 @@ _CGPA.: 8.49_
    * Updates the DevOps and CyberSec Enthusiasts abour Real World Tools and Solutions.
 ---
 # Achievements & Interests
-   * Share a Profound Interest in Astronomy, and was President of  Antariksh Club of VI.
-   * Head a Linkedin based company: “Silverback- the Knight”, that provides CyberSecurity literacy to masses.
-   * Provided with Computer Architecture and Security Architecture at “Sadguru Academy”, an instutute based at Virar, also hosting personal Server Database Locally.
-   * Written over 50+ blogs related to CyberSecurity and Astronomy, and like writing Regional Literature.
-   * Exploring Philosophy and Psychology
-   * Playing Keyboard (Harmonium, Classical Indian)
+   * Share a Profound Interest in Astronomy, and was President of  **Antariksh Club** of VI.
+   * Head a Linkedin based company: “**Silverback- the Knight**”, that provides CyberSecurity literacy to masses.
+   * Provided with Computer Network and Security Architecture at “**Sadguru Academy**”, an instutute based at Virar, also hosting personal Server Database Locally.
+   * Written over **50+ blogs** related to CyberSecurity and Astronomy, and like writing Regional Literature.
+   * Exploring **Philosophy** and **Psychology**
+   * Playing **Keyboard** (Harmonium, Classical Indian)
 
